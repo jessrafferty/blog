@@ -5,8 +5,16 @@ fields:
 - type: text
   name: title
   label: Home page text title
-- type: text
-  name: feature_text
+- name: feature_text
+  type: textarea
+  default: |-
+    ## The title
+    A subtitle
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Home Title and subtitle
 - type: text
   name: feature_image
