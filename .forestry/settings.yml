@@ -6,6 +6,10 @@ webhook_url:
 sections:
 - type: heading
   label: Manage Your Blog
+- type: document
+  path: index.md
+  label: Edit Home Page
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
