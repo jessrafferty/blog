@@ -26,4 +26,5 @@ fields:
   label: Article Image
   default: https://picsum.photos/2560/600?image=733
 pages:
+- _posts/2016-08-29-example-post-three.md
 - epq-survey.md
