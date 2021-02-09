@@ -12,7 +12,7 @@ sections:
 - type: heading
   label: Manage Your Site
 - type: jekyll-pages
-  label: Pages
+  label: Custom Pages
   create: all
 - type: heading
   label: 'bre loves u '
