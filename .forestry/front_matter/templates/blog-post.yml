@@ -8,6 +8,8 @@ fields:
 - type: list
   name: categories
   label: Categories
+  config:
+    use_select: false
 - type: textarea
   name: excerpt
   label: Description
@@ -18,8 +20,8 @@ fields:
 - type: text
   name: feature_image
   label: Article Background Image
+  default: https://picsum.photos/2560/600?image=733
 - type: text
   name: image
   label: Article Image
-pages:
-- _posts/wife.md
+  default: https://picsum.photos/2560/600?image=733
