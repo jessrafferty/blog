@@ -1,0 +1,17 @@
+---
+label: Home
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Home page title
+- type: text
+  name: feature_text
+  label: Home page subtitle
+- type: text
+  name: feature_image
+  label: Home page image
+- type: text
+  name: excerpt
+  label: excerpt
+  hidden: true
