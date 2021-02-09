@@ -9,7 +9,6 @@ sections:
 - type: document
   path: index.md
   label: Edit Home Page
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
