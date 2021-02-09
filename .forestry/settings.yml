@@ -11,9 +11,6 @@ sections:
   create: all
 - type: heading
   label: Manage Your Site
-- type: document
-  path: index.md
-  label: Edit Home Page
 - type: jekyll-pages
   label: Pages
   create: all
