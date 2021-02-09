@@ -4,12 +4,23 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Pages
-  create: all
+- type: heading
+  label: Manage Your Blog
 - type: jekyll-posts
   label: Posts
   create: all
+- type: heading
+  label: Manage Your Site
+- type: document
+  path: index.md
+  label: Edit Home Page
+  match: "**/*"
+  read_only: false
+- type: jekyll-pages
+  label: Pages
+  create: all
+- type: heading
+  label: 'bre loves u '
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
