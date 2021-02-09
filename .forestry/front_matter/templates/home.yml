@@ -15,3 +15,5 @@ fields:
   name: excerpt
   label: excerpt
   hidden: true
+pages:
+- index.md
