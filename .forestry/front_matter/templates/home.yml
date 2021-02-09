@@ -4,10 +4,10 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: Home page title
+  label: Home page text title
 - type: text
   name: feature_text
-  label: Home page subtitle
+  label: Home page banner text
 - type: text
   name: feature_image
   label: Home page image
