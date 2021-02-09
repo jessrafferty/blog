@@ -7,7 +7,7 @@ fields:
   label: Home page text title
 - type: text
   name: feature_text
-  label: Home page banner text
+  label: Home Title and subtitle
 - type: text
   name: feature_image
   label: Home page image
