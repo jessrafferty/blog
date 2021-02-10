@@ -1,6 +1,6 @@
 ---
-title: About Thigh-deology
-feature_text: "## Thigh-deology"
+title: about thigh-deology
+feature_text: "## thigh-deology"
 feature_image: https://picsum.photos/1300/400?image=989
 excerpt: Jess is Jess
 
