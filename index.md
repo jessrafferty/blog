@@ -1,7 +1,7 @@
 ---
 title: about thigh-deology
 feature_text: "## thigh-deology"
-feature_image: https://picsum.photos/1300/400?image=989
+feature_image: https://ecin.org.ng/wp-content/uploads/2017/12/carbon-filament-bulb-design-e1478632461179-Recovered.jpg
 excerpt: Jess is Jess
 
 ---
