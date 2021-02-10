@@ -13,4 +13,6 @@ A word my skin seems to directly juxtapose despite the longing to have its label
 
 Being a woman encompasses this word through and through and yet it is everything I am not.
 
-There is nothing more infuriating than longing to be dainty when everything about your body screams no.
+? There is nothing more infuriating than wanting to be dainty when everything about your body screams no.
+
+? I wish that one day the sadness for longing to have this label may cease, like my inability to be the delicate, small pretty woman society wants me to be.
