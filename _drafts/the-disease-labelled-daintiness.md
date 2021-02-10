@@ -7,3 +7,10 @@ excerpt: ''
 feature_text: ''
 
 ---
+Dainty. A word to describe delicate, small and pretty things in the world.
+
+A word my skin seems to directly juxtapose despite the longing to have its label.
+
+Being a woman encompasses this word through and through and yet it is everything I am not.
+
+There is nothing more infuriating than longing to be dainty when everything about your body screams no.
